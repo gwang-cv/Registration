@@ -6,6 +6,7 @@
 
 ### 2026 年
 
+- [RAP] Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching, ECCV 2026, [pdf](https://arxiv.org/pdf/2512.01850) [code](https://github.com/PRBonn/RAP)
 - [FUSER] FUSER: Feed-Forward Multiview 3D Registration Transformer and SE(3)^N Diffusion Refinement, CVPR 2026, [pdf](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_FUSER_Feed-Forward_Multiview_3D_Registration_Transformer_and_SE3N_Diffusion_Refinement_CVPR_2026_paper.pdf) [code](未确认开源)
 - [C-GenReg] C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion, CVPR 2026, [pdf](https://openaccess.thecvf.com/content/CVPR2026/papers/Haitman_C-GenReg_Training-Free_3D_Point_Cloud_Registration_by_Multi-View-Consistent_Geometry-to-Image_Generation_CVPR_2026_paper.pdf) [code](https://github.com/yuvalH9/CGenReg)
 - [SuP] SuP: Sub-cloud Driven Point Cloud Registration, CVPR 2026, [pdf](https://openaccess.thecvf.com/content/CVPR2026/papers/Fung_SuP_Sub-cloud_Driven_Point_Cloud_Registration_CVPR_2026_paper.pdf) [code](未确认开源)
